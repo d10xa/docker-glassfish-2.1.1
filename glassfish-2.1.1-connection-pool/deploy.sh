@@ -1,0 +1,1 @@
+cp /autodeploy/ROOT.war /opt/glassfish/domains/${DOMAIN_NAME}/autodeploy

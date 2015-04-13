@@ -1,0 +1,1 @@
+/opt/glassfish/bin/asadmin start-domain ${DOMAIN_NAME}

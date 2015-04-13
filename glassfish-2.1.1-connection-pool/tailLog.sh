@@ -1,0 +1,1 @@
+while ! tail -f /opt/glassfish/domains/${DOMAIN_NAME}/logs/server.log ; do sleep 1 ; done
